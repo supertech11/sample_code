@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "873402830477",
+    "project_id": "xplor-project",
+    "storage_bucket": "xplor-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873402830477:android:71c3c3a22f54ac202b5cc4",
+        "android_client_info": {
+          "package_name": "com.micromobility.xplor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873402830477-32rarr58p5mn6hmkuak2oaj9cacqmmk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.micromobility.xplor",
+            "certificate_hash": "321d4f2b92936295977912e8168f2a3c668c7170"
+          }
+        },
+        {
+          "client_id": "873402830477-igd17e1b27n902qeup2cr060drmltbkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_bfgcQKleSSy7uOBO-61VIKb-wgd7sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873402830477-igd17e1b27n902qeup2cr060drmltbkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873402830477-ut69sf19pnkrs4j9gck65l1tbtfns11v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.micromobility.xplor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
